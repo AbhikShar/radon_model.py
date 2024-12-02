@@ -8,7 +8,7 @@ Ensure you have the following Python libraries installed to run the code:
 
 ```bash
 pip install numpy matplotlib scikit-learn
-
+```
 
 ## Dataset
 The dataset is synthetic and includes:
